@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "865477741683",
+    "project_id": "smartri",
+    "storage_bucket": "smartri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865477741683:android:adf87ddee68ecd3a286e06",
+        "android_client_info": {
+          "package_name": "com.sistemmanajemenapardanp3k"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865477741683-0el6bg5b4fevjedbl4lng7sem1fj4umv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sistemmanajemenapardanp3k",
+            "certificate_hash": "49c12b80e82ac8b241cc5a1d07310def04fa7f22"
+          }
+        },
+        {
+          "client_id": "865477741683-3909ps4pnp8h6vhudrld52ioprlc35gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kddJVpfnSWj6FMu10qYoInhLYz8EzPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865477741683-3909ps4pnp8h6vhudrld52ioprlc35gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
